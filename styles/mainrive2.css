@@ -1,0 +1,142 @@
+body {
+  font-size: 1.5em;
+  background: url(images/rive2.png) top center no-repeat;
+    background-size: cover;
+}
+
+
+body {
+  font-size: 1.5em;
+  background: url(images/rive1.png) top center no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Patrick Hand', cursive;
+  font-size: 55px;
+  padding: 16px;
+  text-align: center;
+  display: block;
+  margin: 16px;
+}
+h2 {
+  font-family: 'Patrick Hand', cursive;
+  font-size: 35px;
+  padding: 16px;
+  text-align: center;
+  display: block;
+  margin: 16px;
+
+}
+/*  margin-left: 675px;
+text-align: center;
+text-align: justify;*/
+p1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  width: 24% ;
+    display: block;
+  margin: auto;
+
+
+}
+a {
+      text-align: center;
+  		color:#555555;
+       font-size: 20px;
+		font-weight:bold;
+		height:30px;
+		line-height:29px;
+		margin-bottom:14px;
+		text-decoration:none;
+		width:191px;
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/*a {
+   text-decoration: none;
+   color: ;
+   font-style: italic;
+   font-size: 20px;
+}*/
+.thecouples {
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+
+}
+p {
+  font-family: 'Patrick Hand', cursive;
+  font-size: 35px;
+  padding: 16px;
+  text-align: center;
+  display: block;
+  margin: 16px;
+
+}
+h2 {
+  font-family: 'Patrick Hand', cursive;
+  font-size: 35px;
+  padding: 16px;
+  text-align: center;
+  display: block;
+  margin: 16px;
+
+}
+a {
+      text-align: center;
+  		color:#555555;
+       font-size: 20px;
+		font-weight:bold;
+		height:30px;
+		line-height:29px;
+		margin-bottom:14px;
+		text-decoration:none;
+		width:191px;
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.thecouples {
+
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+
+}
+
+
+#recap {
+  border : 1px solid red;
+  max-height: 90vh;
+}
+
+
+.tailleimg {
+max-width: 100px;
+}
+
+  .left-bank {
+    float : left;
+    max-width: 40%;
+
+    list-style-type: none;
+  }
+
+
+  .right-bank {
+    float : right;
+    max-width: 40%;
+
+    list-style-type: none;
+  }
+
+.thecouples {
+  list-style-type: none;
+}
+
+.ch1 {
+  list-style-type: none;
+}
